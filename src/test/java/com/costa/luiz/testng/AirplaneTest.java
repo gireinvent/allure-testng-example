@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import static java.util.Objects.nonNull;
 
 public class AirplaneTest {
-    //Test GH Actions
+    //Test GH
     @Severity(SeverityLevel.BLOCKER)
     @Feature("Engine")
     @Test(dataProvider = "engineProvider")
